@@ -1,0 +1,5 @@
+{
+  "name": "Estrela Guia App",
+  "description": "An application for freelancers and small service providers to create, edit, and send quotes simply and quickly via WhatsApp, using AI to generate professional service descriptions and calculate approximate values.",
+  "requestFramePermissions": []
+}
